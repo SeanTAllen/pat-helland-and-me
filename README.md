@@ -1,7 +1,5 @@
 # Pat Helland and Me
 
-As given at VelocityConf in San Jose 2018.
-
 ## Title
 
 Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely
