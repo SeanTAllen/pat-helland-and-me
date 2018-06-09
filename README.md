@@ -1,7 +1,5 @@
 # Pat Helland and Me
 
-## Title
-
 Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely
 
 ## Abstract
