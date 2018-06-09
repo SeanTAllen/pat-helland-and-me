@@ -10,10 +10,15 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 
 * VelocityConf San Jose 2018
 
-## Additional Materials
+## References
 
 * [Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 * [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
-* [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
-* [Silence is Golden: Coordination-Avoiding Systems Design](https://www.youtube.com/watch?v=EYJnWttrC9k)
 * [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
+* [Silence is Golden: Coordination-Avoiding Systems Design](https://www.youtube.com/watch?v=EYJnWttrC9k)
+
+## Additional references
+
+* [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
+* [Lasp: A Language for Distributed, Eventually
+Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
