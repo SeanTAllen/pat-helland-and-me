@@ -10,6 +10,13 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 
 * VelocityConf San Jose 2018
 
+## Links
+
+* [Wallaroo](https://github.com/wallaroolabs/wallaroo)
+* [Wallaroo Labs' Twitter](https://twitter.com/wallaroolabs)
+* [My Twitter](https://twitter.com/seantallen)
+* [My Personal Website](https://www.monkeysnatchbanana.com/)
+
 ## References
 
 * [Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
