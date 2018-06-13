@@ -16,6 +16,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [Wallaroo Labs' Twitter](https://twitter.com/wallaroolabs)
 * [My Twitter](https://twitter.com/seantallen)
 * [My Personal Website](https://www.monkeysnatchbanana.com/)
+* [See Scale-Agnostic/Scale-Independent in action](https://vimeo.com/270509076)
 
 ## References
 
