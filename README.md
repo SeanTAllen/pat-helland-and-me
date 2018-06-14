@@ -35,6 +35,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 * [Lasp: A Language for Distributed, Eventually
 Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
+* [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
 
 ## Things that might have been mentioned
 
