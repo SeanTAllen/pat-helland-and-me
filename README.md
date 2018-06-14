@@ -18,6 +18,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [My Personal Website](https://www.monkeysnatchbanana.com/)
 * [Pony](https://www.ponylang.org/)
 * [Pony Twitter](https://twitter.com/ponylang)
+* [Pat Helland's Twitter](https://twitter.com/pathelland)
 
 ## References
 
