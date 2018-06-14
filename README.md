@@ -16,7 +16,8 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [Wallaroo Labs' Twitter](https://twitter.com/wallaroolabs)
 * [My Twitter](https://twitter.com/seantallen)
 * [My Personal Website](https://www.monkeysnatchbanana.com/)
-* [See Scale-Agnostic/Scale-Independent in action](https://vimeo.com/270509076)
+* [Pony](https://www.ponylang.org/)
+* [Pony Twitter](https://twitter.com/ponylang)
 
 ## References
 
@@ -26,6 +27,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [Silence is Golden: Coordination-Avoiding Systems Design](https://www.youtube.com/watch?v=EYJnWttrC9k)
 * [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 * [How did I get here? Building Confidence in a Distributed Stream Processor](https://www.monkeysnatchbanana.com/2016/11/22/codemeshio-how-did-i-get-here/)
+* [Wallaroo Scale-Independent Computing](https://vimeo.com/270509076)
 
 ## Additional references
 
