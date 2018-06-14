@@ -25,6 +25,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 * [Silence is Golden: Coordination-Avoiding Systems Design](https://www.youtube.com/watch?v=EYJnWttrC9k)
 * [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+* [How did I get here? Building Confidence in a Distributed Stream Processor](https://www.monkeysnatchbanana.com/2016/11/22/codemeshio-how-did-i-get-here/)
 
 ## Additional references
 
