@@ -46,4 +46,3 @@ Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-l
 * [Seaside](http://seaside.st/)
 * [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 * [Denormalization](https://en.wikipedia.org/wiki/Denormalization)
-* [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
