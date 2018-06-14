@@ -45,4 +45,5 @@ Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-l
 * [Gemstone Smalltalk](https://en.wikipedia.org/wiki/Gemstone_(database))
 * [Seaside](http://seaside.st/)
 * [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+* [Horizontal and Vertical Scaling](https://en.wikipedia.org/wiki/Scalability#Horizontal_and_vertical_scaling)
 * [Denormalization](https://en.wikipedia.org/wiki/Denormalization)
