@@ -31,3 +31,15 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 * [Lasp: A Language for Distributed, Eventually
 Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
+
+## Things that might have been mentioned
+
+* [Userland Frontier](https://en.wikipedia.org/wiki/UserLand_Software)
+* [BeOS](https://en.wikipedia.org/wiki/BeOS)
+* [Zope](https://en.wikipedia.org/wiki/Zope)
+* [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
+* [Gemstone Smalltalk](https://en.wikipedia.org/wiki/Gemstone_(database))
+* [Seaside](http://seaside.st/)
+* [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+* [Denormalization](https://en.wikipedia.org/wiki/Denormalization)
+* [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
