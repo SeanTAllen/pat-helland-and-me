@@ -8,7 +8,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 
 ## Versions of this talk
 
-* VelocityConf San Jose 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely?slide=1)
+* VelocityConf San Jose 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely?slide=1) | [Video](https://youtu.be/zCmJu0PBw3k)
 * Salesforce July 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely-salesforce-july-2018)
 
 ## Links
