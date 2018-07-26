@@ -34,6 +34,7 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 * [Wallaroo Scale-Independent Computing](https://vimeo.com/270509076)
 * [How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies](https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/)
 * [Random Slicing: Efficient and Scalable Data Placement for
+Large-Scale Storage Systems](http://hpc.ac.upc.edu/PDFs/dir05/file004529.pdf)
 * [Large-Scale Storage Systems](http://hpc.ac.upc.edu/PDFs/dir05/file004529.pdf)
 * [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 
