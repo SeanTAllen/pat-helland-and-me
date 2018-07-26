@@ -23,7 +23,8 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 
 ## References
 
-* [Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
+* [Life Beyond Distributed Transactions - 2007 version](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf)
+* [Life Beyond Distributed Transactions - 2016 version](https://queue.acm.org/detail.cfm?id=3025012)
 * [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
 * [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 * [Silence is Golden: Coordination-Avoiding Systems Design](https://www.youtube.com/watch?v=EYJnWttrC9k)
