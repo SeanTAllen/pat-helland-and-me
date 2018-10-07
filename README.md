@@ -8,6 +8,10 @@ In 2007, Pat Helland published [“Life Beyond Distributed Transactions: An Apos
 
 ## Versions of this talk
 
+Pat Helland and Me has evolved quite a bit as I've given in. The 2nd half of the [VelocityConf San Jose version](https://youtu.be/zCmJu0PBw3k) is very different than any of the other versions. It's very heavy on "this you need to consider if you are using this architectural pattern". The later versions got rid of that end and instead focus on giving an example (via [Wallaroo](https://github.com/wallaroolabs/wallaroo)) of a scale-independent system. 
+
+If you are only going to watch one version of this talk, I'd advice watching the [Papers We Love San Francisco version](https://www.youtube.com/watch?v=xI56ox7dcRQ&feature=youtu.be). It's my favorite version.
+
 * VelocityConf San Jose 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely?slide=1) | [Video](https://youtu.be/zCmJu0PBw3k)
 * Salesforce July 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely-salesforce-july-2018)
 * Papers We Love San Francisco - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-a-talk-about-life-beyond-distributed-transactions-an-apostates-opinion) | [Video](https://www.youtube.com/watch?v=xI56ox7dcRQ&feature=youtu.be)
