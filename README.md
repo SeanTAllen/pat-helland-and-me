@@ -15,7 +15,7 @@ If you are only going to watch one version of this talk, I'd advice watching the
 * VelocityConf San Jose 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely?slide=1) | [Video](https://youtu.be/zCmJu0PBw3k)
 * Salesforce July 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely-salesforce-july-2018)
 * Papers We Love San Francisco - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-a-talk-about-life-beyond-distributed-transactions-an-apostates-opinion) | [Video](https://www.youtube.com/watch?v=xI56ox7dcRQ&feature=youtu.be)
-* VelocityConf New York 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely-velocity-ny-october-2018)
+* VelocityConf New York 2018 - [Slides](https://speakerdeck.com/seantallen/pat-helland-and-me-how-to-build-stateful-distributed-applications-that-can-scale-almost-infinitely-velocity-ny-october-2018) | [Video](https://youtu.be/r2TVqzh-yvg)
 
 ## Links
 
